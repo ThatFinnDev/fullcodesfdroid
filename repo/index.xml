@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="default-repo-icon.png" name="FullCodeApps" pubkey="30820505308202eda00302010202042d5a1a6e300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f72673020170d3233303632353038343634335a180f32303530313131303038343634335a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a0282020100cbbd446165829fb96257ce5212e54d2d0b34fb99c4b47d5e9320da46a12356cbbecf7620fbc807f8cebca2893ff344d616be5d02861d4ae30835849ee6334969ac5c68e29b9f2b4b6afd7804592213e3bbf54a3165a0990e53fca3bf7602ae9eaebd491896c03ba64936b97dddf94c222072c35259898ec4e04ba5cbdfa29847ebe3243867266776ade3cf4a9b54b7bf20f9506ef1194d3ebba5ec8323086e0349281d5f906abdf7f3e0bafe38bc70a6381923114cc8ff3b9d54928621657a797e46c35011701d1db8d2a2afdf5d4b56f6d50b3475d4e390843bce6217c9bf5584ab135014544e9ce2f1e192025b798377a413d61f372b8a128a1d82df8e09d944729cca7f141c326f520da44ab73577c2291f5148c8874bff0008153161f6b71e16e01c4364c0ec743b561970a1d8b12dc081b0f750ff3f00bf2591f075368d46b32cf06157ba1072c1c2553cdfd0450bdb6bf70eae2371084a38089646a8ddabe4e7a34a1748f7ca4351f16b8ee8c2e9c90352b412245b2152c36000baba7f044d77f92760210f62ef777d23a0598b6cd624e6e3196b1fd6e595b73657377356c304a70ab9eacddc74856be8a2a6d9886167a8866f7a3837864b9c463a049982f781aca05e2cc75f5f566b35df24cd773e89eb3b353b467887e94dcd1675aadc189d16f15295b8f27ca922154b017a6c50f8b4aaf0a8895c9d033e796dbc590203010001a321301f301d0603551d0e04160414bc8329828201208e0c6e208ad00fb9f6f5e86723300d06092a864886f70d01010b050003820201008b43434458080609bf56814f23a64340009df5eaf57c2b2d790efea1e52d374302c422cc6755b959fd2da95740c7af119f56b298c60038cb286659ef7b2d384b1f91e572c29f0debf7c452de92d7926a69d5561307b755b688498e626f2b0f65778d24fa36f9b44aff85763e7440f70fcedf8f2c2d08ca3d832133c44f91da281c4bd423960efb644b24dd275ab2b004b1851bfd60016abebf181e719e21b9ed8e84fdfbc0d0ab201c8e6ee28eb64c358b4765f33326aa1091e263b9837322dd4bce04d486e04776d14519c295734a20b8303d8918271a1b1bd612f745e90e44585e906b784ed9e227cdde30ce2eea6fc33a2efba5fefcc02f3110675396b64b9b94097fe1284c8b6f010c43af2a5bf458af6a0f60dc1c944cf54539e13bebf5eb7f7504da273b28fc006c9df61b04d6c0e7c16f85338ae9b455adcd1ad07f06c0ec56f4c6bbd1fdfbc42da0104f115d07254f8d1f23358af30468873fca9c5da81a360a08de509aad452ee0716cc24ea5069ffc4cf81dcb225508529e2546ab95ca4b5f05d783d7838b236d4b1e6aed5dab7cba154c5916ffc36d2e777ef0eaf844d5bddb7246fba4b7535c0a93e621d1b23ebba9c43f32767b15290f6bb490500097d6a5083383671d3be8166c84f795b05d71f2799626c0d021fbeb156fc93e3fafb019b758e7b14e83e773fb3def34eaa5774ab4cddb12f5980c86d97c2d" timestamp="1687684021" url="https://raw.githubusercontent.com/ThatFinnDev/fullcodesfdroid/master/fdroid/repo" version="21">
+		<description>Games from FullCodes</description>
+		<mirror>https://raw.githubusercontent.com/ThatFinnDev/fullcodesfdroid/master/fdroid/repo/repo</mirror>
+	</repo>
+	<application id="at.thatfinn.quixx">
+		<id>at.thatfinn.quixx</id>
+		<added>2023-06-25</added>
+		<lastupdated>2023-06-25</lastupdated>
+		<name>Quixx</name>
+		<summary>Dice game</summary>
+		<desc>Quixx is game you play with friends where you have 6 dices. Your goal is to score the most points</desc>
+		<license>Unknown</license>
+		<categories>Games</categories>
+		<category>Games</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<author>ThatFinn</author>
+		<marketversion></marketversion>
+		<marketvercode>16</marketvercode>
+		<package>
+			<version>1.4.2</version>
+			<versioncode>16</versioncode>
+			<apkname>Quixx-Android_iVxBsuS.apk</apkname>
+			<hash type="sha256">13c3c95c56315e646536e4ff1b3e38e6c9f5c66361c77809634c8a019f8f7297</hash>
+			<size>49658273</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>32</targetSdkVersion>
+			<added>2023-06-25</added>
+			<sig>da1e19a2a5fc5e1439649ab3595efb74</sig>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.4.1</version>
+			<versioncode>15</versioncode>
+			<apkname>Quixx-Android.apk</apkname>
+			<hash type="sha256">1182b01d2792b0bb16a561ef5ed744775e194607a76ee5fc32c3c391112d5db8</hash>
+			<size>49647679</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>32</targetSdkVersion>
+			<added>2023-06-25</added>
+			<sig>da1e19a2a5fc5e1439649ab3595efb74</sig>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="at.Fnimj.Tubeball">
+		<id>at.Fnimj.Tubeball</id>
+		<added>2023-06-25</added>
+		<lastupdated>2023-06-25</lastupdated>
+		<name>Tubeball</name>
+		<summary>You have to guide the ball safely through the tube by pressing the left or right half of the screen to rotate the tube!</summary>
+		<icon>at.Fnimj.Tubeball.1.png</icon>
+		<desc>You have to guide the ball safely through the tube by pressing the left or right half of the screen to rotate the tube!</desc>
+		<license>Unknown</license>
+		<categories>Games</categories>
+		<category>Games</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<author>ThatFinn</author>
+		<marketversion></marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>0.0.1</version>
+			<versioncode>1</versioncode>
+			<apkname>11.apk</apkname>
+			<hash type="sha256">dfd86a634cb0c1dd782335a7b1ea9c07196f4e1843a919ce72e47ea12bdb9d60</hash>
+			<size>23347516</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2023-06-25</added>
+			<sig>9a7e95e8e58fdf0c5a112163569b652a</sig>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="at.FullCodes.TurtleAdventurer">
+		<id>at.FullCodes.TurtleAdventurer</id>
+		<added>2023-06-25</added>
+		<lastupdated>2023-06-25</lastupdated>
+		<name>Turtle Adventurer</name>
+		<summary>You are a turtle and have to go to the exit of the Jump and Run Level.</summary>
+		<icon>at.FullCodes.TurtleAdventurer.7.png</icon>
+		<desc>You are a turtle and have to go to the exit of the Jump and Run Level.</desc>
+		<license>Unknown</license>
+		<categories>Games</categories>
+		<category>Games</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<author>FullCodes</author>
+		<marketversion></marketversion>
+		<marketvercode>7</marketvercode>
+		<package>
+			<version>0.00.07alpha</version>
+			<versioncode>7</versioncode>
+			<apkname>7.apk</apkname>
+			<hash type="sha256">be5c3be93028d73c64330442577f812ef72245c7dd3f9ed44ebc043ece5e5459</hash>
+			<size>31280276</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2023-06-25</added>
+			<sig>d382996a9abdc4270686dcbbfef02aa7</sig>
+			<permissions>CAMERA,INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.00.06alpha</version>
+			<versioncode>6</versioncode>
+			<apkname>6.apk</apkname>
+			<hash type="sha256">6f0bfff37f4eef49a5d2ad1a3c559b4303826f735abc58634d9e069490b8a7df</hash>
+			<size>29748372</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2023-06-25</added>
+			<sig>d382996a9abdc4270686dcbbfef02aa7</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.00.05alpha</version>
+			<versioncode>5</versioncode>
+			<apkname>5.apk</apkname>
+			<hash type="sha256">fc60b6d7376c266d2301dab755cef7380acc0750d35b9470eaa1b35620d89f7f</hash>
+			<size>29781140</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2023-06-25</added>
+			<sig>d382996a9abdc4270686dcbbfef02aa7</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.00.04alpha</version>
+			<versioncode>4</versioncode>
+			<apkname>4.apk</apkname>
+			<hash type="sha256">15c269d5e878e9d2976451611b792d24ce3c3a67a4101787bf35c6af52657b64</hash>
+			<size>29719700</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2023-06-25</added>
+			<sig>d382996a9abdc4270686dcbbfef02aa7</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.00.03alpha</version>
+			<versioncode>3</versioncode>
+			<apkname>3.apk</apkname>
+			<hash type="sha256">e6a12e9e89a20f3fc65c1c139b7c824134c3f60f82ce5f1fa2fddce886dc0ea4</hash>
+			<size>29727892</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2023-06-25</added>
+			<sig>d382996a9abdc4270686dcbbfef02aa7</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.00.02alpha</version>
+			<versioncode>2</versioncode>
+			<apkname>2.apk</apkname>
+			<hash type="sha256">81878c68a85ee6b57985afc3ad8e400f01729e5c199c15b11b422c65cdcffe78</hash>
+			<size>29727892</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2023-06-25</added>
+			<sig>d382996a9abdc4270686dcbbfef02aa7</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.00.01alpha</version>
+			<versioncode>1</versioncode>
+			<apkname>1.apk</apkname>
+			<hash type="sha256">d64353360bf33897bc099b92716de9e2005034caedd2efad269d4a44642282f8</hash>
+			<size>29678740</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2023-06-25</added>
+			<sig>d382996a9abdc4270686dcbbfef02aa7</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+</fdroid>
