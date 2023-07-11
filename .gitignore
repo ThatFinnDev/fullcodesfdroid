@@ -1,7 +1,7 @@
 metadata
 tmp
 srclibs
-config.py
+config.yml
 fdroid-icon.png
 keystore.jks
 Quixx.apk
