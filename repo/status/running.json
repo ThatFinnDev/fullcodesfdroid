@@ -1,1 +1,51 @@
-{"/etc/issue.net":"Ubuntu 23.04","antiFeatures":{},"apksigner":"/usr/bin/apksigner","archivePolicy0":[],"commandLine":["/usr/bin/fdroid update"],"disabled":[],"endTimestamp":1691170762637,"failedBuilds":{},"fdroiddata":{"commitId":"0a871acd14bbe7b590a11fbf117efb248e95e0de","isDirty":true,"modifiedFiles":["repo/Quixx-Android_1.4.4.apk","repo/diff/1689516381000.json","repo/diff/1689516392000.json","repo/diff/1689516505000.json","repo/diff/1690230601000.json","repo/diff/1691167862000.json","repo/diff/1691169082000.json","repo/diff/1691169100000.json","repo/diff/1691169318000.json","repo/diff/1691170074000.json","repo/diff/1691170134000.json","repo/entry.jar","repo/entry.json","repo/index-v1.jar","repo/index-v1.json","repo/index-v2.json","repo/index.jar","repo/index.xml"],"untrackedFiles":["repo/diff/1691170185000.json"]},"jarsigner":"/usr/lib/jvm/default-java/bin/jarsigner","keytool":"/usr/lib/jvm/default-java/bin/keytool","needsUpdate":["at.Fnimj.Tubeball","at.fnimt.turtleexplorer","at.thatfinn.quixx"],"noPackages":["at.Fnimj.Tubeball","at.fnimt.turtleexplorer","at.thatfinn.quixx"],"noUpdateCheck":["at.Fnimj.Tubeball","at.fnimt.turtleexplorer","at.thatfinn.quixx"],"startTimestamp":1691167155000,"subcommand":"update"}
+{
+  "/etc/issue.net": "Pop!_OS 22.04 LTS",
+  "commandLine": [
+    "/usr/bin/fdroid update"
+  ],
+  "fdroiddata": {
+    "commitId": "bf895aff6338fdedcb7e4da5efbb3c3917c52655",
+    "isDirty": true,
+    "modifiedFiles": [
+      "repo/diff/1689516392000.json",
+      "repo/diff/1689516505000.json",
+      "repo/diff/1690230601000.json",
+      "repo/diff/1691167862000.json",
+      "repo/diff/1691169082000.json",
+      "repo/diff/1691169100000.json",
+      "repo/diff/1691169318000.json",
+      "repo/diff/1691170074000.json",
+      "repo/diff/1691170134000.json",
+      "repo/diff/1691170185000.json",
+      "repo/entry.jar",
+      "repo/entry.json",
+      "repo/index-v1.jar",
+      "repo/index-v1.json",
+      "repo/index-v2.json",
+      "repo/index.jar",
+      "repo/index.xml",
+      "repo/status/running.json",
+      "repo/status/update.json"
+    ],
+    "untrackedFiles": [
+      "repo/TubeBall.0.0.7.apk",
+      "repo/TubeBall.0.0.8.apk",
+      "repo/icons-120/at.Fnimj.Tubeball.7.png",
+      "repo/icons-120/at.Fnimj.Tubeball.8.png",
+      "repo/icons-160/at.Fnimj.Tubeball.7.png",
+      "repo/icons-160/at.Fnimj.Tubeball.8.png",
+      "repo/icons-240/at.Fnimj.Tubeball.7.png",
+      "repo/icons-240/at.Fnimj.Tubeball.8.png",
+      "repo/icons-320/at.Fnimj.Tubeball.7.png",
+      "repo/icons-320/at.Fnimj.Tubeball.8.png",
+      "repo/icons-480/at.Fnimj.Tubeball.7.png",
+      "repo/icons-480/at.Fnimj.Tubeball.8.png",
+      "repo/icons-640/at.Fnimj.Tubeball.7.png",
+      "repo/icons-640/at.Fnimj.Tubeball.8.png",
+      "repo/icons/at.Fnimj.Tubeball.7.png",
+      "repo/icons/at.Fnimj.Tubeball.8.png"
+    ]
+  },
+  "startTimestamp": 1707673822000,
+  "subcommand": "update"
+}
