@@ -4,48 +4,27 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "bf895aff6338fdedcb7e4da5efbb3c3917c52655",
+    "commitId": "ad78dd8f83b256c2ddc144568541de5128fb230f",
     "isDirty": true,
     "modifiedFiles": [
-      "repo/diff/1689516392000.json",
-      "repo/diff/1689516505000.json",
-      "repo/diff/1690230601000.json",
-      "repo/diff/1691167862000.json",
-      "repo/diff/1691169082000.json",
-      "repo/diff/1691169100000.json",
-      "repo/diff/1691169318000.json",
-      "repo/diff/1691170074000.json",
-      "repo/diff/1691170134000.json",
-      "repo/diff/1691170185000.json",
-      "repo/entry.jar",
-      "repo/entry.json",
       "repo/index-v1.jar",
       "repo/index-v1.json",
-      "repo/index-v2.json",
       "repo/index.jar",
       "repo/index.xml",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": [
-      "repo/TubeBall.0.0.7.apk",
-      "repo/TubeBall.0.0.8.apk",
-      "repo/icons-120/at.Fnimj.Tubeball.7.png",
-      "repo/icons-120/at.Fnimj.Tubeball.8.png",
-      "repo/icons-160/at.Fnimj.Tubeball.7.png",
-      "repo/icons-160/at.Fnimj.Tubeball.8.png",
-      "repo/icons-240/at.Fnimj.Tubeball.7.png",
-      "repo/icons-240/at.Fnimj.Tubeball.8.png",
-      "repo/icons-320/at.Fnimj.Tubeball.7.png",
-      "repo/icons-320/at.Fnimj.Tubeball.8.png",
-      "repo/icons-480/at.Fnimj.Tubeball.7.png",
-      "repo/icons-480/at.Fnimj.Tubeball.8.png",
-      "repo/icons-640/at.Fnimj.Tubeball.7.png",
-      "repo/icons-640/at.Fnimj.Tubeball.8.png",
-      "repo/icons/at.Fnimj.Tubeball.7.png",
-      "repo/icons/at.Fnimj.Tubeball.8.png"
+      "repo/TubeBall.0.1.0.apk.apk",
+      "repo/icons-120/at.Fnimj.Tubeball.10.png",
+      "repo/icons-160/at.Fnimj.Tubeball.10.png",
+      "repo/icons-240/at.Fnimj.Tubeball.10.png",
+      "repo/icons-320/at.Fnimj.Tubeball.10.png",
+      "repo/icons-480/at.Fnimj.Tubeball.10.png",
+      "repo/icons-640/at.Fnimj.Tubeball.10.png",
+      "repo/icons/at.Fnimj.Tubeball.10.png"
     ]
   },
-  "startTimestamp": 1707673822000,
+  "startTimestamp": 1708982110000,
   "subcommand": "update"
 }
