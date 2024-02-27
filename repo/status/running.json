@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "0b7cc7673ddf4eb5fc716f49d812207e353bc845",
+    "commitId": "0015ae9c6cc02aa690775da6bed4823b46e71963",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
@@ -13,16 +13,9 @@
       "repo/index.xml"
     ],
     "untrackedFiles": [
-      "repo/TubeBall.0.1.4.apk",
-      "repo/icons-120/at.Fnimj.Tubeball.14.png",
-      "repo/icons-160/at.Fnimj.Tubeball.14.png",
-      "repo/icons-240/at.Fnimj.Tubeball.14.png",
-      "repo/icons-320/at.Fnimj.Tubeball.14.png",
-      "repo/icons-480/at.Fnimj.Tubeball.14.png",
-      "repo/icons-640/at.Fnimj.Tubeball.14.png",
-      "repo/icons/at.Fnimj.Tubeball.14.png"
+      "repo/Quixx-Android.1.4.5.apk"
     ]
   },
-  "startTimestamp": 1709046592000,
+  "startTimestamp": 1709069072000,
   "subcommand": "update"
 }
