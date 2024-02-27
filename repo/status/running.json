@@ -4,27 +4,25 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "4a43d4aff94330db53b3d53fab86a4ffef9fbc76",
+    "commitId": "d1ed3863ca4843816efbd45d2087a910aaca2aaa",
     "isDirty": true,
     "modifiedFiles": [
-      "repo/at.Fnimj.Tubeball/en-US/featureGraphc.png",
-      "repo/at.Fnimj.Tubeball/en-US/phoneScreenshots/0.png",
-      "repo/at.Fnimj.Tubeball/en-US/phoneScreenshots/1.png",
-      "repo/at.Fnimj.Tubeball/en-US/phoneScreenshots/2.png",
-      "repo/at.Fnimj.Tubeball/en-US/phoneScreenshots/3.png",
-      "repo/at.Fnimj.Tubeball/en-US/phoneScreenshots/4.png",
-      "repo/at.Fnimj.Tubeball/en-US/phoneScreenshots/5.png",
-      "repo/at.Fnimj.Tubeball/en-US/phoneScreenshots/6.png",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml"
     ],
     "untrackedFiles": [
-      "repo/at.Fnimj.Tubeball/en-US/featureGraphic.png",
-      "repo/at.Fnimj.Tubeball/en-US/featureGraphic_CwzIwp1sUFQV2Z-7U6RmdpEHn9ssfc9NSZgYSWmNrxo=.png"
+      "repo/TubeBall.0.1.3.apk",
+      "repo/icons-120/at.Fnimj.Tubeball.13.png",
+      "repo/icons-160/at.Fnimj.Tubeball.13.png",
+      "repo/icons-240/at.Fnimj.Tubeball.13.png",
+      "repo/icons-320/at.Fnimj.Tubeball.13.png",
+      "repo/icons-480/at.Fnimj.Tubeball.13.png",
+      "repo/icons-640/at.Fnimj.Tubeball.13.png",
+      "repo/icons/at.Fnimj.Tubeball.13.png"
     ]
   },
-  "startTimestamp": 1709032709000,
+  "startTimestamp": 1709034397000,
   "subcommand": "update"
 }
