@@ -4,18 +4,23 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "0015ae9c6cc02aa690775da6bed4823b46e71963",
+    "commitId": "832dd80152d01dfb1a8b13d7dc138d2e661c1aad",
     "isDirty": true,
     "modifiedFiles": [
+      "repo/Quixx-Android.1.4.5.apk",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
-      "repo/index.xml"
+      "repo/index.xml",
+      "repo/status/running.json",
+      "repo/status/update.json"
     ],
     "untrackedFiles": [
-      "repo/Quixx-Android.1.4.5.apk"
+      "repo/Quixx-Android_1.4.5.apk",
+      "repo/at.thatfinn.quixx/en-US/icon.png",
+      "repo/at.thatfinn.quixx/en-US/icon_nzXWdFvVPzf4SwwCmt_Tel-UYqR_vTPDozEzNDhG_Uc=.png"
     ]
   },
-  "startTimestamp": 1709069072000,
+  "startTimestamp": 1709069504000,
   "subcommand": "update"
 }
