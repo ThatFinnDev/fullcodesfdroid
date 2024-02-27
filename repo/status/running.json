@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "3b6db9ff43c0e15071a06f7dd5bcdebae53306b1",
+    "commitId": "80a5688e4b63ac60dc27830329f5ae4d2a714868",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
@@ -12,17 +12,8 @@
       "repo/index.jar",
       "repo/index.xml"
     ],
-    "untrackedFiles": [
-      "repo/TubeBall.0.1.1.apk",
-      "repo/icons-120/at.Fnimj.Tubeball.11.png",
-      "repo/icons-160/at.Fnimj.Tubeball.11.png",
-      "repo/icons-240/at.Fnimj.Tubeball.11.png",
-      "repo/icons-320/at.Fnimj.Tubeball.11.png",
-      "repo/icons-480/at.Fnimj.Tubeball.11.png",
-      "repo/icons-640/at.Fnimj.Tubeball.11.png",
-      "repo/icons/at.Fnimj.Tubeball.11.png"
-    ]
+    "untrackedFiles": []
   },
-  "startTimestamp": 1709029970000,
+  "startTimestamp": 1709030125000,
   "subcommand": "update"
 }
