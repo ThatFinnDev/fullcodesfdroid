@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "eeb15569863ee2800b1ee823b58c2b0dc9653a93",
+    "commitId": "0c5e23ed016b739976dbcd62a24a96e58fb72bbe",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
@@ -13,9 +13,9 @@
       "repo/index.xml"
     ],
     "untrackedFiles": [
-      "repo/Quixx-Android_1.4.6.apk"
+      "repo/Quixx-Android_1.4.7.apk"
     ]
   },
-  "startTimestamp": 1709139349000,
+  "startTimestamp": 1709144194000,
   "subcommand": "update"
 }
